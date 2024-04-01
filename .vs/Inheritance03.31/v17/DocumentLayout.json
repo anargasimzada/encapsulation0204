@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Inheritance03.31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAAA2C3-0110-456D-828A-3D1A87632CA8}|Inheritance03.31\\Inheritance03.31.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\inheritance03.31\\inheritance03.31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAAA2C3-0110-456D-828A-3D1A87632CA8}|Inheritance03.31\\Inheritance03.31.csproj|solutionrelative:inheritance03.31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAAA2C3-0110-456D-828A-3D1A87632CA8}|Inheritance03.31\\Inheritance03.31.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\inheritance03.31\\inheritance03.31\\moduls\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAAA2C3-0110-456D-828A-3D1A87632CA8}|Inheritance03.31\\Inheritance03.31.csproj|solutionrelative:inheritance03.31\\moduls\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAAA2C3-0110-456D-828A-3D1A87632CA8}|Inheritance03.31\\Inheritance03.31.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\inheritance03.31\\inheritance03.31\\moduls\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAAA2C3-0110-456D-828A-3D1A87632CA8}|Inheritance03.31\\Inheritance03.31.csproj|solutionrelative:inheritance03.31\\moduls\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAAA2C3-0110-456D-828A-3D1A87632CA8}|Inheritance03.31\\Inheritance03.31.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\inheritance03.31\\inheritance03.31\\moduls\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAAA2C3-0110-456D-828A-3D1A87632CA8}|Inheritance03.31\\Inheritance03.31.csproj|solutionrelative:inheritance03.31\\moduls\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Inheritance03.31\\Inheritance03.31\\Moduls\\Laptop.cs",
+              "RelativeDocumentMoniker": "Inheritance03.31\\Moduls\\Laptop.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Inheritance03.31\\Inheritance03.31\\Moduls\\Laptop.cs",
+              "RelativeToolTip": "Inheritance03.31\\Moduls\\Laptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:40:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Inheritance03.31\\Inheritance03.31\\Moduls\\Mobile.cs",
+              "RelativeDocumentMoniker": "Inheritance03.31\\Moduls\\Mobile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Inheritance03.31\\Inheritance03.31\\Moduls\\Mobile.cs",
+              "RelativeToolTip": "Inheritance03.31\\Moduls\\Mobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:40:11.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Inheritance03.31\\Inheritance03.31\\Moduls\\Device.cs",
+              "RelativeDocumentMoniker": "Inheritance03.31\\Moduls\\Device.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Inheritance03.31\\Inheritance03.31\\Moduls\\Device.cs",
+              "RelativeToolTip": "Inheritance03.31\\Moduls\\Device.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAvwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:24:54.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Inheritance03.31\\Inheritance03.31\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance03.31\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Inheritance03.31\\Inheritance03.31\\Program.cs",
+              "RelativeToolTip": "Inheritance03.31\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:23:59.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
