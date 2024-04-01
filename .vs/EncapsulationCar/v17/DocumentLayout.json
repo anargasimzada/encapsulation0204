@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\encapsulationcar\\encapsulationcar\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|solutionrelative:encapsulationcar\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\encapsulationcar\\encapsulationcar\\models\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|solutionrelative:encapsulationcar\\models\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\encapsulationcar\\encapsulationcar\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|solutionrelative:encapsulationcar\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\encapsulationcar\\encapsulationcar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|solutionrelative:encapsulationcar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\encapsulationcar\\encapsulationcar\\models\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D4E99-E5C0-4AD5-A0CF-C17B96C16018}|EncapsulationCar\\EncapsulationCar.csproj|solutionrelative:encapsulationcar\\models\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Models\\Tesla.cs",
+              "RelativeDocumentMoniker": "EncapsulationCar\\Models\\Tesla.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Models\\Tesla.cs",
+              "RelativeToolTip": "EncapsulationCar\\Models\\Tesla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T21:26:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "EncapsulationCar\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Models\\Person.cs",
+              "RelativeToolTip": "EncapsulationCar\\Models\\Person.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADgvx4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T21:26:13.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Models\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "EncapsulationCar\\Models\\ElectricCar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Models\\ElectricCar.cs",
+              "RelativeToolTip": "EncapsulationCar\\Models\\ElectricCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T21:25:52.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Models\\Cars.cs",
+              "RelativeDocumentMoniker": "EncapsulationCar\\Models\\Cars.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Models\\Cars.cs",
+              "RelativeToolTip": "EncapsulationCar\\Models\\Cars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T21:24:54.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationCar\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\EncapsulationCar\\EncapsulationCar\\Program.cs",
+              "RelativeToolTip": "EncapsulationCar\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIA+wA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T21:24:16.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

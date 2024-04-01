@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\bin\Debug\net6.0\EncapsulationCar.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\bin\Debug\net6.0\EncapsulationCar.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\bin\Debug\net6.0\EncapsulationCar.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\bin\Debug\net6.0\EncapsulationCar.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\bin\Debug\net6.0\EncapsulationCar.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\obj\Debug\net6.0\EncapsulationCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\obj\Debug\net6.0\EncapsulationCar.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\obj\Debug\net6.0\EncapsulationCar.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\obj\Debug\net6.0\EncapsulationCar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\obj\Debug\net6.0\EncapsulationCar.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\obj\Debug\net6.0\refint\EncapsulationCar.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\obj\Debug\net6.0\EncapsulationCar.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\obj\Debug\net6.0\EncapsulationCar.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\EncapsulationCar\EncapsulationCar\obj\Debug\net6.0\ref\EncapsulationCar.dll
