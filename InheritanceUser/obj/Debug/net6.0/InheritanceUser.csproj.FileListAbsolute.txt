@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\obj\Debug\net6.0\InheritanceUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\obj\Debug\net6.0\InheritanceUser.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\obj\Debug\net6.0\InheritanceUser.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\obj\Debug\net6.0\InheritanceUser.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\bin\Debug\net6.0\InheritanceUser.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\bin\Debug\net6.0\InheritanceUser.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\bin\Debug\net6.0\InheritanceUser.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\bin\Debug\net6.0\InheritanceUser.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\bin\Debug\net6.0\InheritanceUser.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\obj\Debug\net6.0\InheritanceUser.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\obj\Debug\net6.0\refint\InheritanceUser.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\obj\Debug\net6.0\InheritanceUser.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\obj\Debug\net6.0\InheritanceUser.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\InheritanceUser\InheritanceUser\obj\Debug\net6.0\ref\InheritanceUser.dll
